@@ -1,0 +1,9 @@
+export 'profile.dart';
+export 'auth.dart';
+export 'reg.dart';
+export 'admin_profile.dart';
+export 'add_product.dart';
+export 'all_users.dart';
+export 'orders_for_admin.dart';
+export 'my_orders.dart';
+export 'my_data.dart';

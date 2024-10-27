@@ -1,0 +1,1 @@
+ /Users/rezedanefedeva/Downloads/pojects/uralPelmen/.dart_tool/flutter_build/770d6bbaacc93de38af3828c9bb9a51b/native_assets.yaml: 

@@ -1,0 +1,1 @@
+export 'view/finish_page_delivery.dart';
